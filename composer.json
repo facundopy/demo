@@ -6,9 +6,8 @@
     "symfony/twig-bridge": "^2.7"
   },
   "require-dev": {
-    "heroku/heroku-buildpack-php": "*"
-  },
-    "require": {
-    "ext-mbstring": "*"
-  },
+    "heroku/heroku-buildpack-php": "*",
+     "ext-mbstring": "*"
+  }
+    
 }
